@@ -1,0 +1,1118 @@
+2020-04-03 15:56:00 INFO  Parser: 28 - Text parsing is started
+2020-04-03 15:56:00 INFO  Parser: 49 - Getting paragraphList from file.txt
+2020-04-03 15:56:00 INFO  TextLogic: 37 - Getting procedure of paragraphList
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 61 - Started to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  Parser: 69 - Finished to split up paragraph into sentenceList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 35 - Getting procedure of sentenceList
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  Parser: 83 - Started to split up sentence into wordList
+2020-04-03 15:56:00 INFO  Parser: 92 - Finished to split up sentence into wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 44 - Getting procedure of wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 39 - Finished to replace first and last elements
+2020-04-03 15:56:00 INFO  SentenceLogic: 54 - Get wordList, which  has replaced first and last element 
+2020-04-03 15:56:00 INFO  ParagraphLogic: 45 - Get sentenceList,which  has  each sentence replaced first and last element 
+2020-04-03 15:56:00 INFO  TextLogic: 48 - Get paragraphList
+2020-04-03 15:56:00 INFO  TextLogic: 59 - Procedure of constitute text from paragraphList
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  ParagraphLogic: 50 - Procedure of constitute paragraph from sentenceList
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  SentenceLogic: 59 - Procedure of constitute sentence from wordList
+2020-04-03 15:56:00 INFO  SentenceLogic: 69 - Get sentence
+2020-04-03 15:56:00 INFO  ParagraphLogic: 61 - Get paragraph
+2020-04-03 15:56:00 INFO  TextLogic: 71 - Get text
+2020-04-03 15:56:00 INFO  Writer: 24 - Started procedure of recording  text  in file, by specified path
+2020-04-03 15:56:00 INFO  Writer: 42 - Text parsing complete

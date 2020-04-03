@@ -1,0 +1,73 @@
+section. To better understand the concepts in this Note:  References. the sections Lambda Expressions and Method Review  components: pipeline contains the following A  
+channel. source: This could be a collection, an array, a generator function, or an I/O A  operations. this example, the source is the collection roster.Zero or more intermediate In  stream intermediate operation, such as filter, produces a new An  
+  
+elements. stream is a sequence of A  elements. a collection, it is not a data structure that stores Unlike  pipeline. a stream carries values from a source through a Instead,  stream. example creates a stream from the collection roster by invoking the method This  
+  
+collections? what do you use For  there. don't simply store objects in a collection and leave them You  them. most cases, you use collections to retrieve items stored in In  
+  
+Expressions. again the scenario described in the section Lambda Consider  application. that you are creating a social networking Suppose  criteria. want to create a feature that enables an administrator to perform any kind of action, such as sending a message, on members of the social networking application that satisfy certain You  
+  
+class: before, suppose that members of this social networking application are represented by the following Person As  
+  
+{ class Person public  
+  
+{ enum Sex public  
+FEMALE MALE,  
+}  
+  
+name; String  
+birthday; LocalDate  
+gender; Sex  
+emailAddress; String  
+  
+... //  
+  
+{ int getAge() public  
+... //  
+}  
+  
+{ String getName() public  
+... //  
+}  
+}  
+loop: following example prints the name of all members contained in the collection roster with a for-each The  
+  
+{ (Person p : roster) for  
+System.out.println(p.getName());  
+}  
+forEach: following example prints all members contained in the collection roster but with the aggregate operation The  
+  
+roster  
+.stream()  
+System.out.println(e.getName()); -> .forEach(e  
+tasks. in this example, the version that uses aggregate operations is longer than the one that uses a for-each loop, you will see that versions that use bulk-data operations will be more concise for more complex Although,  
+  
+covered: following topics are The  
+  
+Streams and Pipelines  
+Iterators Between Aggregate Operations and Differences  
+BulkDataOperationsExamples. the code excerpts described in this section in the example Find  
+  
+Streams and Pipelines  
+operations. pipeline is a sequence of aggregate A  forEach: following example prints the male members contained in the collection roster with a pipeline that consists of the aggregate operations filter and The  
+  
+roster  
+.stream()  
+Person.Sex.MALE) -> e.getGender() == .filter(e  
+System.out.println(e.getName())); -> .forEach(e  
+loop: this example to the following that prints the male members contained in the collection roster with a for-each Compare  
+  
+{ (Person p : roster) for  
+{ (p.getGender() == Person.Sex.MALE) if  
+System.out.println(p.getName());  
+}  
+}  
+components: pipeline contains the following A  
+  
+channel. source: This could be a collection, an array, a generator function, or an I/O A  operations. this example, the source is the collection roster.Zero or more intermediate In  stream. intermediate operation, such as filter, produces a new An  
+  
+elements. stream is a sequence of A  elements. a collection, it is not a data structure that stores Unlike  pipeline. a stream carries values from a source through a Instead,  stream. example creates a stream from the collection roster by invoking the method This  
+  
+parameter). filter operation returns a new stream that contains elements that match its predicate (this operation's The  Person.Sex.MALE. this example, the predicate is the lambda expression e -> e.getGender() == In  Person.Sex.MALE. returns the boolean value true if the gender field of object e has the value It  roster. the filter operation in this example returns a stream that contains all male members in the collection Consequently,  
+  
+operation. terminal A  all. terminal operation, such as forEach, produces a non-stream result, such as a primitive value (like a double value), a collection, or in the case of forEach, no value at A  e. this example, the parameter of the forEach operation is the lambda expression e -> System.out.println(e.getName()), which invokes the method getName on the object In  Person.) Java runtime and compiler infer that the type of the object e is (The  
